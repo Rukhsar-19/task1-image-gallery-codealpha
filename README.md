@@ -1,6 +1,6 @@
 # task1-image-gallery-codealpha
 Creating responsive light box image gallery by using HTML,CSS,JS 
-Features:
+<html><bold>Features</bold></html>
 Responsive Design:
 The image gallery is fully responsive.
 Grid Layout:
