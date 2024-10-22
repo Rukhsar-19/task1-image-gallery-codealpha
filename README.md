@@ -22,5 +22,4 @@ Clicking on an image opens it in a full-screen lightbox, where users can view th
  HTML: For structuring the gallery and images.
 CSS: For responsive styling and layout.
 JavaScript (Lightbox): For interactive image viewing.
- ### Demo
-### https://github.com/Rukhsar-19/task1-image-gallery-codealpha/issues/1#issuecomment-2428952117
+ 
