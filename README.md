@@ -2,8 +2,9 @@
 Creating responsive light box image gallery by using HTML,CSS,JS 
 
 # Table of Contents
-## .Features.
-## .Technologies Used.
+### Features.
+### Technologies Used.
+### Demo.
 
 # Features
 ### Responsive Design:
@@ -21,4 +22,6 @@ Clicking on an image opens it in a full-screen lightbox, where users can view th
  HTML: For structuring the gallery and images.
 CSS: For responsive styling and layout.
 JavaScript (Lightbox): For interactive image viewing.
+### Demo:
+[responsive image gallery git.webm](https://github.com/user-attachments/assets/a0a4c559-2f3c-4f0f-84c0-214c35aa060e)
  
