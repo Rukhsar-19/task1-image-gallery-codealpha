@@ -11,3 +11,6 @@ Lightbox Integration: Clicking on an image opens it in a full-screen lightbox, w
 Navigation: Users can easily navigate between images in the lightbox .
 Technologies:
 HTML,CSS,Javascript in Visualstudio.
+ Demo image gallery
+
+https://github.com/Rukhsar-19/task1-image-gallery-codealpha/issues/1#issuecomment-2428952117
