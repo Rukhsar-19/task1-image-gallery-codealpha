@@ -1,16 +1,26 @@
 # task1-image-gallery-codealpha
 Creating responsive light box image gallery by using HTML,CSS,JS 
-## Features
+
+# Table of Contents
+## .Features.
+## .Technologies Used.
+## .demo.
+
+# Features
 ### Responsive Design:
-The image gallery is fully responsive.
+The image gallery is fully responsive.A simple and responsive image gallery created using HTML, CSS, and JavaScript. The project includes a Lightbox for an enhanced image viewing experience.
 #### Grid Layout:
 Images are displayed in a flexible grid layout that adjusts the number of columns based on the screen size.
-Hover Effects:
+### Hover Effects:
 Hovering over an image may display additional effects like zoom-in, shadows, or captions for a visually engaging experience.
-Lightbox Integration: Clicking on an image opens it in a full-screen lightbox, where users can view the image in larger detail.
-Navigation: Users can easily navigate between images in the lightbox .
-Technologies:
-HTML,CSS,Javascript in Visualstudio.
- Demo image gallery
-
-https://github.com/Rukhsar-19/task1-image-gallery-codealpha/issues/1#issuecomment-2428952117
+### Lightbox Integration: 
+Clicking on an image opens it in a full-screen lightbox, where users can view the image in larger detail.
+### Navigation:
+ navigation allows  to move between images within the gallery without closing the Lightbox viewer.
+ Lightbox will automatically navigate between the images.
+ ### Technologies used:
+ HTML: For structuring the gallery and images.
+CSS: For responsive styling and layout.
+JavaScript (Lightbox): For interactive image viewing.
+ ### Demo
+### https://github.com/Rukhsar-19/task1-image-gallery-codealpha/issues/1#issuecomment-2428952117
