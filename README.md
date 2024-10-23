@@ -2,9 +2,9 @@
 Creating responsive light box image gallery by using HTML,CSS,JS 
 
 # Table of Contents
-### Features.
-### Technologies Used.
-### Demo.
+### -Features.
+### -Technologies Used.
+### -Demo.
 
 ## Features
 ### Responsive Design:
